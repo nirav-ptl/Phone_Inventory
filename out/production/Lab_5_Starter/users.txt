@@ -1,0 +1,3 @@
+start lab5
+insy 4305
+lone star
